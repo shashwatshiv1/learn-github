@@ -1,2 +1,3 @@
 # learn-github
-learning github
+Learning GitHub
+this branch is first commit 
